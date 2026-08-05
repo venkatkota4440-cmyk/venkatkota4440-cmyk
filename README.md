@@ -1,186 +1,156 @@
-<!--
-  🚀 GitHub Profile README for Kota Venkata Saida Rao
-  Edit the sections below — look for <!-- ADD -- > comments marking fields you still need to fill in.
+# <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+KOTA+VENKATA+SAIDA+RAO;B.Tech+CSE+(AI+%26+ML)+Student;Aspiring+AI+Engineer+%7C+Web+Developer;Building+AI+Solutions+for+Smart+Agriculture" alt="Typing SVG" />
 
-  The banner below uses capsule-render (https://github.com/kyechan99/capsule-render) — a
-  service that generates a colorful animated SVG banner. No image upload needed; it just works.
-  You can change the color by editing "color=0:2E86DE,100:8E2DE2" to any hex gradient you like.
--->
+<h1 align="center">🌱 KOTA VENKATA SAIDA RAO</h1>
 
-<div align="center">
+<h3 align="center">
+B.Tech CSE (Artificial Intelligence & Machine Learning) Student <br>
+Aspiring AI Engineer • Software Developer • Web Developer
+</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86DE,100:8E2DE2&height=220&section=header&text=Kota%20Venkata%20Saida%20Rao&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Student%20%7C%20Web%20Developer%20%7C%20Hackathon%20Winner&descAlignY=58&descSize=18" width="100%"/>
+---
 
-# Hi there, I'm Kota Venkata Saida Rao 👋
+## 🚀 About Me
 
-<!-- Animated typing intro -->
-<a href="#">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2E86DE&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+%26+ML)+Student;AI+%2B+Web+Developer;Hackathon+Enthusiast;Open+to+Internships+%26+Collaboration" alt="Typing SVG" />
-</a>
+🎓 B.Tech student specializing in **Computer Science Engineering (Artificial Intelligence & Machine Learning)**.
 
-📍 Palnadu, Andhra Pradesh, India &nbsp;|&nbsp; 🎓 B.Tech CSE (AI & ML) @ Narasaraopeta Engineering College
+🌱 Passionate about Artificial Intelligence, Machine Learning, Web Development, and solving real-world problems with technology.
 
-💼 Open to Work — Hyderabad (On-site / Hybrid)
+🚜 Currently building **AgriSense AI**, an intelligent agriculture platform that provides AI-powered soil analysis, fertilizer recommendations, and crop suggestions.
 
-<!-- ADD: paste your LinkedIn profile URL in place of the # below -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-<!-- ADD: paste your Twitter/X profile URL in place of the # below -->
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkatkota4440@gmail.com)
-<!-- Portfolio and Resume badges removed for now — add them back once you have those ready, e.g.:
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![Resume](https://img.shields.io/badge/Resume-informational?style=for-the-badge&logo=readdotcv&logoColor=white)](YOUR_RESUME_URL)
--->
-![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-lightgrey?style=for-the-badge)
-![Resume](https://img.shields.io/badge/Resume-Coming%20Soon-lightgrey?style=for-the-badge)
+📱 I enjoy learning new technologies and building projects even using only my Android phone.
 
-</div>
+🎯 **Career Goal**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E86DE,100:8E2DE2&height=3&section=header" width="100%"/>
+- AI Engineer
+- Full Stack Developer
+- Software Engineer
+- Open Source Contributor
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E86DE,100:8E2DE2&height=45&section=header&text=%F0%9F%A7%A0%20About%20Me&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%"/>
+---
 
-I'm a B.Tech CSE (AI & ML) student passionate about Artificial Intelligence, Web Development, and Software Development. I enjoy building real-world projects, participating in hackathons, and continuously learning modern technologies to solve practical problems.
+# 🛠 Tech Stack
 
-- 🔭 Currently building AI + web projects around agriculture and sustainability
-- 🌱 Actively learning **AI, Machine Learning, Next.js, and Cloud Computing**
-- 🤝 Open to: **Internships**, **Research Projects**, **Freelance Work**, and **Open-Source Collaboration**
-- ⚡ Fun fact: I enjoy participating in hackathons and turning innovative ideas into working projects!
+### Programming Languages
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E86DE,100:8E2DE2&height=3&section=header" width="100%"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E86DE,100:8E2DE2&height=45&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%"/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+---
 
-**Frontend**
+### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
-**Backend**
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 
-**Databases**
+---
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+### Tools
 
-**Tools & Platforms**
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E86DE,100:8E2DE2&height=3&section=header" width="100%"/>
+![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E86DE,100:8E2DE2&height=45&section=header&text=%F0%9F%9A%80%20Featured%20Projects&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%"/>
+![Acode](https://img.shields.io/badge/Acode-3B82F6?style=for-the-badge)
 
-### 🌱 AI Soil Analysis & Fertilizer Recommendation
-AI-powered platform that analyzes soil data and recommends suitable fertilizers and crops.
+---
 
-**Tech Stack:** React · Flask · Python · AI/ML · MongoDB
+# 🌾 Featured Project
 
-<!-- ADD: GitHub repo link --> <!-- ADD: Live demo link -->
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](#)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](#)
+## 🚜 AgriSense AI – Know Your Soil, Grow Your Yield
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E86DE,100:8E2DE2&height=3&section=header" width="100%"/>
+### Problem Statement
 
-### ♻️ AI Smart Waste Management System
-AI system that detects, classifies, and monitors waste while providing analytics through a dashboard.
+- Slow and costly soil testing
+- Incorrect fertilizer usage
+- Reduced crop productivity
+- Environmental impact
 
-**Tech Stack:** React · Node.js · AI · MongoDB
+### Solution
 
-<!-- ADD: GitHub repo link --> <!-- ADD: Live demo link -->
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](#)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](#)
+✅ AI Soil Analysis
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E86DE,100:8E2DE2&height=3&section=header" width="100%"/>
+✅ Fertilizer Recommendation
 
-### 🌾 Smart Agriculture Dashboard
-Web application for monitoring soil health, weather, crop recommendations, and farm insights.
+✅ Crop Recommendation
 
-**Tech Stack:** React · Firebase · Python
+✅ IoT Dashboard
 
-<!-- ADD: GitHub repo link --> <!-- ADD: Live demo link -->
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](#)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](#)
+✅ Farmer Dashboard
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E86DE,100:8E2DE2&height=3&section=header" width="100%"/>
+✅ AI Chatbot
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E86DE,100:8E2DE2&height=45&section=header&text=%F0%9F%93%8A%20GitHub%20Stats&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%"/>
+✅ Multi-language Support
 
-<!-- Replace "venkatkota4440-cmyk" below with your exact GitHub username if different -->
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=venkatkota4440-cmyk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatkota4440-cmyk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
+### Technologies
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkatkota4440-cmyk&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
+React • AI • GitHub • Vercel • HTML • CSS • JavaScript
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E86DE,100:8E2DE2&height=3&section=header" width="100%"/>
+> <!-- Add your repository link here after publishing -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E86DE,100:8E2DE2&height=45&section=header&text=%F0%9F%8F%86%20Achievements%20%26%20Certifications&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%"/>
+---
 
-- 🏅 **1st Place** — 2-Day Web Development Hackathon by **byteXL**, hosted at Narasaraopeta Engineering College (May 2026)
-<!-- ADD: Any further certifications, e.g. NPTEL, Coursera, Cisco, AWS -->
-- (Add more certifications here)
+# 📊 GitHub Stats
 
-<!-- Certificate image: upload it to a folder named "certs" in this repo as "hackathon-certificate.jpg" -->
-<div align="center">
-  <img src="certs/hackathon-certificate.jpg" alt="Hackathon Certificate" width="70%"/>
-</div>
+> Replace **YOUR_GITHUB_USERNAME** with your username.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E86DE,100:8E2DE2&height=3&section=header" width="100%"/>
+![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E86DE,100:8E2DE2&height=45&section=header&text=%F0%9F%93%9A%20Currently%20Learning&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%"/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+![](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+
+---
+
+# 🌱 Currently Learning
 
 - Artificial Intelligence
 - Machine Learning
-- React.js
-- Next.js
-- Node.js
+- React
+- GitHub
+- Vercel
 - Cloud Computing
-- Git & GitHub
-- Vercel Deployment
+- Web Development
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E86DE,100:8E2DE2&height=3&section=header" width="100%"/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E86DE,100:8E2DE2&height=45&section=header&text=%F0%9F%A4%9D%20Open%20to%20Collaborate%20On&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%"/>
+# 🎯 Goals for 2026
 
-- 🔬 Research projects
-- 💼 Internships
-- 💻 Freelance opportunities
-- 🌐 Open-source projects
+- 🚀 Build Professional AI Projects
+- 🏆 Win National Hackathons
+- 🌍 Contribute to Open Source
+- 💼 Become an AI Engineer
+- 📚 Learn Advanced Web Development
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E86DE,100:8E2DE2&height=3&section=header" width="100%"/>
+---
 
-<div align="center">
+# 🤝 Let's Connect
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E86DE,100:8E2DE2&height=45&section=header&text=%F0%9F%93%AB%20Connect%20With%20Me&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<!-- Update these links -->
 
-<!-- ADD your LinkedIn and Twitter/X URLs to the badges below -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkatkota4440@gmail.com)
+📧 Email: your-email@example.com
 
-⭐️ From [venkatkota4440-cmyk](https://github.com/venkatkota4440-cmyk)
+💼 LinkedIn: Your LinkedIn URL
 
-</div>
+🌐 Portfolio: Your Portfolio URL
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:2E86DE&height=120&section=footer" width="100%"/>
+🐙 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+
+---
+
+# 💡 Quote
+
+> **"Technology becomes meaningful when it solves real-world problems."**
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
